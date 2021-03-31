@@ -1,0 +1,1 @@
+If text is not rendering properly, try deleting the 'TextMesh Pro' folder from 'Assets', and them reimport it. A playable build is available in the 'Releases' section of this repo.
