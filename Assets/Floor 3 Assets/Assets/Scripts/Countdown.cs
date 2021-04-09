@@ -17,7 +17,7 @@ public class Countdown : MonoBehaviour
 
     void Start()
     {
-        timeLeft = 70f;
+        timeLeft = 90f;
         endTime = 0f;
     }
 

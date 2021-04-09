@@ -84,7 +84,7 @@ public class PageCounter : MonoBehaviour
             scarierMusic = true;
 
             slenderNavigation = slender.GetComponent<NavMeshAgent>();
-            slenderNavigation.speed = 5;
+            slenderNavigation.speed = 4;
             
         }
 
