@@ -7,6 +7,7 @@ TagManager:
   - Destroyable
   - Page
   - Timer
+  - sharpKeyHighlighter
   layers:
   - Default
   - TransparentFX

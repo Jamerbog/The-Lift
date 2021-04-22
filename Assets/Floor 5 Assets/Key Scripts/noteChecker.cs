@@ -38,8 +38,7 @@ public class noteChecker : MonoBehaviour
     {
         audioSource.PlayOneShot(clapping2);
         Debug.Log("POOOPIE WOOPIIE WOOP WOOP!!");
-        lightController.enabled = true;
+        spotlight.SetActive(true);
         fireDoorAnimator.SetTrigger("OpenDoor");
-
     }
 }
